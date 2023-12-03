@@ -12,4 +12,4 @@ Actualizar un usuario: http://localhost:8000/api/usuario/{id}<br>
 Eliminar un usuario: http://localhost:8000/api/usuario/{id}<br>
 Login: http://localhost:8000/api/usuario/login<br>
 
-
+![Imagen de Swagger](ruta/relativa/a/tu/imagen.jpg)
